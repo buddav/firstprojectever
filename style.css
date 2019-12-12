@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  
+
+}
+
+body {background-image: url(header.jpg);
+background-size:cover;
+}
+
+h1 {text-align: center;
+	margin: 280px;
+	text-transform: uppercase;
+	display:inline-block;
+	font-size:220%;
+}
+
+button {margin-left: 555px;
+	background-color: orange;
+}
+
+.btn-xl {background-color: orange;
+padding:0.5rem;
+text-transform: uppercase;}
+
+.btn {border-radius: 300px}
